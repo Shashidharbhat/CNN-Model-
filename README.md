@@ -1,4 +1,4 @@
-# Selection-Task
+# CNN-Model
 The dataset comprises 90 different animal images. Initially, we'll structure it for one-vs-rest classification, followed by binary classification and then a 5-class classification problem. We'll evaluate each model's performance using classification matrices.
 1. Dataset Preparation:
    - Organize the dataset for one-vs-rest classification. Perform binary classification using existing architectures and then restructure for 5-class classification. Use 3-fold cross-validation to assess the model.
